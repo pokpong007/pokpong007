@@ -2,9 +2,7 @@
 
 I'm **Pokpong Limpaphan**
 
-🎓 Student at the College of Computing, Khon Kaen University
-🚀 Co-Founder & CEO of **[onemod.dev](https://onemod.dev)**
-🌐 Portfolio: **[pokpong.net](https://pokpong.net)**
+Hi my name Pokpong L, I study Colledge of Computing Student and SoloFreelance Developer at OneMod.dev
 
 ---
 
