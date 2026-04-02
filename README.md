@@ -10,7 +10,7 @@ Hi my name Pokpong L, I study Colledge of Computing Student and SoloFreelance De
 
 **[onemod.dev](https://onemod.dev)** is a platform for **single-player game trainers** designed to enhance your gaming experience.
 
-We provide both **free and premium trainers** that are:
+We provide both **free and support trainers** that are:
 
 * ⚡ Fast and easy to use
 * 🔒 Safe and reliable
